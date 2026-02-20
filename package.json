@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@ai-sdk/google": "^3.0.29",
-    "@ai-sdk/react": "^3.0.93",
+    "@ai-sdk/react": "^3.0.96",
     "@uiw/react-markdown-preview": "^5.1.5",
-    "ai": "^6.0.91",
+    "ai": "^6.0.94",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3",
